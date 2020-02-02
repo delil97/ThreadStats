@@ -1,0 +1,12 @@
+H:\Advanced C#\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe.config
+H:\Advanced C#\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe
+H:\Advanced C#\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.pdb
+H:\Advanced C#\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.exe
+H:\Advanced C#\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.pdb
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe.config
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\bin\Debug\ThreadStats.pdb
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.exe
+C:\Users\Dator\Desktop\LabAsignemnt4\ThreadStats\ThreadStats\obj\Debug\ThreadStats.pdb
